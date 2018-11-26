@@ -72,7 +72,7 @@ en:
   invalid_login_method: Login failed due to account mismatch. You need to log in with omniauth.
   invite_message: "To invite someone to the meeting, send them this link:"
   landing:
-    about: "%{href} is a simple front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} is a simple schnupa front-end for your BigBlueButton open-source web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
     welcome: Welcome to BigBlueButton.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
